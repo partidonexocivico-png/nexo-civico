@@ -1,0 +1,9 @@
+NEXO CÍVICO — SITIO WEB ESCOLAR
+
+Cómo abrir:
+1. Extrae el archivo ZIP.
+2. Abre la carpeta nexo_civico_web.
+3. Haz doble clic en index.html. Se abrirá en tu navegador.
+
+No requiere instalación, hosting, dominio, cuenta ni conexión a internet para visualizarse.
+Para publicarlo gratis en internet puedes usar GitHub Pages o Netlify Drop.
